@@ -16,7 +16,9 @@ Comunicación: Escucha activa, atención al cliente, resolución de problemas
 Herramientas de Ventas: Manejo de caja, facturación, proformas, notas de crédito, inventariado
 Conocimientos Técnicos: Gestión de plataformas de punto de venta, productos ferreteros
 Idiomas: Castellano y catalán nativo, inglés nivel alto
+
 💼 Experiencia Laboral
+
 Ferretería Martillo al Klavo
 Encargado de Caja y Inventariado
 Periodo: Marzo 2021 - Presente
@@ -33,15 +35,18 @@ Brindar un excelente servicio al cliente, atendiendo dudas y procesando los pago
 Panadería la Española
 Servicio al Cliente y Cobros
 Periodo: Enero 2019 - Marzo 2020
-
 Cobro de productos y manejo de caja en un ambiente dinámico.
 Atención al cliente, aclarando dudas sobre los productos y brindando la mejor experiencia.
+
 🎓 Formación Académica
+
 Liceo Diurno de Esparza
 Bachillerato completo
 Banking Coach Academy
 Estudios en contabilidad, ventas de productos bancarios, neuromarketing, y la Ley FATCA.
+
 💻 Proyectos Destacados
+
 Aplicación POS - Gestión Integral para Negocios
 Un punto de venta completo diseñado para facilitar la gestión comercial en Costa Rica, con integración directa a facturación electrónica de Hacienda. Este proyecto está construido utilizando React.js y Tailwind CSS para ofrecer una interfaz intuitiva y eficiente que permite gestionar ventas, inventarios y facturas en tiempo real.
 Funcionalidades clave incluyen:
@@ -53,9 +58,12 @@ Control de roles de usuario y seguridad
 Repositorio GitHub: Ver código
 
 🌐 Idiomas
+
 Español y Catalán: Nativo
 Inglés: Nivel alto
+
 📞 Referencias
+
 Sandwichera Esparza
 Annia González Solano (Gerente)
 Teléfono: 8440-5508
@@ -63,6 +71,7 @@ Teléfono: 8440-5508
 "El joven Allan José Vélez González laboró en nuestra empresa desde marzo 2020 hasta junio 2021. Durante su tiempo con nosotros, demostró ser una persona responsable, confiable y hábil en su puesto. Agradezco cualquier oportunidad que le sea brindada."
 
 📫 Contacto
+
 Correo electrónico: velezalan34@gmail.com
 Teléfono: 8481-3021
 Ubicación: Esparza, San Juan, Barón
