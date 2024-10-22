@@ -1,11 +1,15 @@
 👨‍💻 Allan José Vélez González
+
 Desarrollador Front-End & Especialista en Marketing | React.js & Tailwind CSS
 📍 Esparza, San Juan, Barón | ✉️ velezalan34@gmail.com | 📱 8481-3021 | LinkedIn | GitHub
 
+
 🌟 Sobre Mí
+
 Soy una persona apasionada por el marketing y el desarrollo front-end, con grandes deseos de seguir aprendiendo y mejorando. Me destaco por ser abierto a las críticas constructivas y siempre busco incentivar la creatividad en mi trabajo. Mi experiencia incluye el uso de herramientas avanzadas como React.js y Tailwind CSS, además de tener un fuerte enfoque en la resolución de problemas y la comunicación efectiva. También cuento con un sólido conocimiento en contabilidad, ventas y la gestión de puntos de venta.
 
 🛠️ Habilidades
+
 Desarrollo Front-End: React.js, Tailwind CSS, HTML, CSS, JavaScript
 Marketing: Estrategias de neuromarketing, ventas de productos bancarios, gestión comercial
 Comunicación: Escucha activa, atención al cliente, resolución de problemas
