@@ -11,7 +11,8 @@
 
 | [ LinkedIn - Allan José Vélez González ](https://www.linkedin.com/in/allan-jos%C3%A9-v%C3%A9lez-gonz%C3%A1lez-2838981b8?trk=contact-info) |
 
-| [GitHub - ScriptVG](https://github.com/scriptvg) |  
+| [GitHub - ScriptVG](https://github.com/scriptvg) |
+  
 | [Portafolio Web](https://silver-empanada-7397cc.netlify.app/) |
 
 ---
