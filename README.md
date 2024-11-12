@@ -3,7 +3,7 @@
 👨‍💻 Allan José Vélez González
 
 Desarrollador Front-End & Especialista en Marketing | React.js & Tailwind CSS
-📍 Esparza, San Juan, Barón | ✉️ velezalan34@gmail.com | 📱 +506 8481-3021 | https://cr.linkedin.com/in/allan-jos%C3%A9-v%C3%A9lez-gonz%C3%A1lez-2838981b8 | GitHub
+📍 Esparza, San Juan, Barón | ✉️ velezalan34@gmail.com | 📱 +506 8481-3021 | LinkedIn | GitHub
 
 
 ---
