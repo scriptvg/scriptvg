@@ -159,5 +159,3 @@ LinkedIn: Allan José Vélez González
 
 ---
 
-Este README sigue una estructura clara y profesional, resaltando tus habilidades y experiencia de forma precisa.
-
