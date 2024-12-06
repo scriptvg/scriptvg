@@ -1,106 +1,93 @@
+# 👨‍💻 Allan José Vélez González  
+
+**Desarrollador Front-End & Especialista en Marketing**  
+
+📍 **Esparza, San Juan, Barón**  
+✉️ **velezalan34@gmail.com** | 📱 **8481-3021**  
+[**LinkedIn**](https://www.linkedin.com/in/allan-jos%C3%A9-v%C3%A9lez-gonz%C3%A1lez-2838981b8?trk=contact-info) | [**GitHub**](https://github.com/scriptvg) | [**Portafolio Web**](https://silver-empanada-7397cc.netlify.app/)  
 
 ---
 
-# 👨‍💻 Allan José Vélez González
+## 🌟 **Sobre Mí**  
 
-**Desarrollador Front-End & Especialista en Marketing | React.js & Tailwind CSS**
-
-📍 Esparza, San Juan, Barón 
- 
-✉️ velezalan34@gmail.com | 📱 8481-3021 | 
-
-| [ LinkedIn - Allan José Vélez González ](https://www.linkedin.com/in/allan-jos%C3%A9-v%C3%A9lez-gonz%C3%A1lez-2838981b8?trk=contact-info) |
-
-| [GitHub - ScriptVG](https://github.com/scriptvg) |
-  
-| [Portafolio Web](https://silver-empanada-7397cc.netlify.app/) |
+Soy un desarrollador front-end apasionado por la tecnología y el marketing, especializado en **React.js** y **Tailwind CSS**. Combino mis habilidades técnicas con una sólida experiencia en comunicación y ventas, para diseñar soluciones creativas y efectivas. Me destaco por mi compromiso, capacidad de aprendizaje continuo y atención al detalle.  
 
 ---
 
-## 🌟 Sobre Mí
+## 🛠️ **Habilidades Técnicas**  
 
-Soy una persona apasionada por el marketing y el desarrollo front-end, con grandes deseos de seguir aprendiendo y mejorando. Me destaco por ser abierto a las críticas constructivas y siempre busco incentivar la creatividad en mi trabajo. Mi experiencia incluye el uso de herramientas avanzadas como React.js y Tailwind CSS, además de tener un fuerte enfoque en la resolución de problemas y la comunicación efectiva. También cuento con un sólido conocimiento en contabilidad, ventas y la gestión de puntos de venta.
-
-## 🛠️ Habilidades
-
-- **Desarrollo Front-End**: React.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Marketing**: Estrategias de neuromarketing, ventas de productos bancarios, gestión comercial  
-- **Comunicación**: Escucha activa, atención al cliente, resolución de problemas  
-- **Herramientas de Ventas**: Manejo de caja, facturación, proformas, notas de crédito, inventariado  
-- **Conocimientos Técnicos**: Gestión de plataformas de punto de venta, productos ferreteros  
-- **Idiomas**: Castellano y catalán (nativos), inglés (nivel alto)
+- **Lenguajes y Frameworks:** React.js, Tailwind CSS, JavaScript, HTML, CSS  
+- **Diseño Responsivo y UX/UI:** Prototipado con enfoque en la experiencia del usuario  
+- **Gestión y Herramientas:** Git, GitHub, plataformas POS  
+- **Marketing y Ventas:** Estrategias comerciales, neuromarketing, atención al cliente  
 
 ---
 
-## 💻 Tech Stack
+## 💼 **Experiencia Laboral**  
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### **Ferretería Martillo al Klavo**  
+**Encargado de Caja y Inventariado** | Marzo 2021 - Presente  
+- Facturación y control de inventarios de productos ferreteros.  
+- Asesoría técnica en ventas y atención al cliente.  
 
----
+### **Sandwichera Esparza**  
+**Cajero y Servicio al Cliente** | Marzo 2020 - Junio 2021  
+- Ventas y manejo de caja, atención personalizada al cliente.  
 
-## 💼 Experiencia Laboral
-
-**Ferretería Martillo al Klavo**  
-*Encargado de Caja y Inventariado* | Marzo 2021 - Presente  
-- Gestión de caja y facturación de ventas diarias.  
-- Control de inventarios y actualización de productos.  
-- Asesoría técnica sobre productos ferreteros.
-
-**Sandwichera Esparza**  
-*Vendedor, Servicio al Cliente y Cajero* | Marzo 2020 - Junio 2021  
-- Responsable de ventas y manejo de caja.  
-- Excelente servicio al cliente y procesamiento de pagos.
-
-**Panadería la Española**  
-*Servicio al Cliente y Cobros* | Enero 2019 - Marzo 2020  
-- Manejo de caja en ambiente dinámico, atención y soporte al cliente.
+### **Panadería La Española**  
+**Servicio al Cliente y Cobros** | Enero 2019 - Marzo 2020  
+- Procesamiento de pagos y atención en un entorno dinámico.
 
 ---
 
-## 🎓 Formación Académica
+## 💻 **Proyectos Destacados**  
+
+### **Donut ASCII Rotatorio**  
+[**Repositorio en GitHub**](https://github.com/ScriptVg/Spinning_Donut-main)  
+
+![Imagen del Proyecto](https://github.com/ScriptVg/Spinning_Donut-main/blob/main/preview.png?raw=true)  
+
+Un proyecto dinámico que genera un donut ASCII rotatorio en el navegador, utilizando HTML, CSS y JavaScript.  
+
+**Características clave:**  
+- Control dinámico de velocidad de rotación con un slider.  
+- Cambio de tema (modo claro y oscuro) con un botón interactivo.  
+- Diseño responsivo y adaptable a diferentes pantallas.  
+
+**Archivos principales:**  
+- `SpinningDonut.html`: Estructura del proyecto.  
+- `styles.css`: Estilización del donut y la interfaz.  
+- `script.js`: Lógica para generar la animación y funciones interactivas.  
+
+---
+
+### **Portafolio Personal**  
+[**Demo en vivo**](https://silver-empanada-7397cc.netlify.app/)  
+
+Un portafolio profesional que destaca mis habilidades y proyectos en desarrollo front-end.  
+
+---
+
+### **Aplicación POS - Gestión Integral para Negocios**  
+[**Repositorio en GitHub**](https://github.com/scriptvg/Discord-S0ftw)  
+
+Un sistema de punto de venta para facilitar la gestión comercial en Costa Rica, con integración a facturación electrónica.  
+
+**Características clave:**  
+- Facturación electrónica en conformidad con Hacienda.  
+- Gestión de inventarios y proveedores.  
+- Módulo de usuarios con control de roles y permisos.  
+
+---
+
+## 🎓 **Formación Académica**  
 
 - **Liceo Diurno de Esparza** | Bachillerato completo  
-- **Banking Coach Academy** | Estudios en contabilidad, ventas de productos bancarios, neuromarketing, y Ley FATCA
+- **Banking Coach Academy** | Contabilidad, ventas bancarias, neuromarketing, Ley FATCA  
 
 ---
 
-## 💻 Proyectos Destacados
+## 🌐 **Idiomas**  
 
-### Portafolio Personal
-Un portafolio profesional que destaca mis habilidades y proyectos en desarrollo front-end.  
-[Portafolio Web](https://silver-empanada-7397cc.netlify.app/)
-
-### Proyecto de Aplicación Web - Stunning Pika
-Un proyecto web creado para demostrar habilidades en desarrollo front-end, diseño responsivo y experiencia de usuario.  
-[Proyecto Web](https://stunning-pika-kr0mmsoluti0n.netlify.app/)
-
-### Aplicación POS - Gestión Integral para Negocios
-Un punto de venta completo diseñado para facilitar la gestión comercial en Costa Rica, con integración directa a facturación electrónica de Hacienda. Este proyecto está construido utilizando React.js y Tailwind CSS para ofrecer una interfaz intuitiva y eficiente.  
-**Funcionalidades clave incluyen:**
-- Facturación electrónica en conformidad con Hacienda
-- Gestión de inventario en tiempo real
-- Módulo de proveedores y clientes
-- Control de roles de usuario y seguridad  
-
-**[Repositorio GitHub - Ver código](https://github.com/scriptvg/Discord-S0ftw)**
-
----
-
-## 🌐 Idiomas
-
-- **Español y Catalán**: Nativo  
-- **Inglés**: Nivel alto
-
----
-
-## 📞 Referencias
-
-**Sandwichera Esparza**  
-Annia González Solano (Gerente) | Teléfono: 8440-5508  
-*"El joven Allan José Vélez González laboró en nuestra empresa desde marzo 2020 hasta junio 2021. Durante su tiempo con nosotros, demostró ser una persona responsable, confiable y hábil en su puesto."*
-
----
+- **Español y Catalán:** Nativo  
+- **Inglés:** Nivel alto
