@@ -43,9 +43,7 @@ Soy un desarrollador front-end apasionado por la tecnología y el marketing, esp
 ## 💻 **Proyectos Destacados**  
 
 ### **Donut ASCII Rotatorio**  
-[**Repositorio en GitHub**](https://github.com/ScriptVg/Spinning_Donut-main)  
-
-![Imagen del Proyecto](https://github.com/ScriptVg/Spinning_Donut-main/blob/main/preview.png?raw=true)  
+[**Repositorio en GitHub**](https://github.com/ScriptVg/Spinning_Donut-main)    
 
 Un proyecto dinámico que genera un donut ASCII rotatorio en el navegador, utilizando HTML, CSS y JavaScript.  
 
