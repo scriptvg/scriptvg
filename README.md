@@ -45,6 +45,8 @@ Soy un desarrollador front-end apasionado por la tecnología y el marketing, esp
 ### **Donut ASCII Rotatorio**  
 [**Repositorio en GitHub**](https://github.com/ScriptVg/Spinning_Donut-main)
 
+[**Demo en vivo**](https://spinningdonut.netlify.app/)
+
 Un proyecto dinámico que genera un donut ASCII rotatorio en el navegador, utilizando HTML, CSS y JavaScript.  
 
 **Características clave:**  
@@ -52,7 +54,6 @@ Un proyecto dinámico que genera un donut ASCII rotatorio en el navegador, utili
 - Cambio de tema (modo claro y oscuro) con un botón interactivo.  
 - Diseño responsivo y adaptable a diferentes pantallas.  
 
-[**Demo en vivo**](https://spinningdonut.netlify.app/)
 ---
 
 ### **Portafolio Personal**  
