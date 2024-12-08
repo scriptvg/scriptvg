@@ -43,7 +43,8 @@ Soy un desarrollador front-end apasionado por la tecnología y el marketing, esp
 ## 💻 **Proyectos Destacados**  
 
 ### **Donut ASCII Rotatorio**  
-[**Repositorio en GitHub**](https://github.com/ScriptVg/Spinning_Donut-main)    
+[**Repositorio en GitHub**](https://github.com/ScriptVg/Spinning_Donut-main)
+[**Demo en vivo**](https://spinningdonut.netlify.app/)
 
 Un proyecto dinámico que genera un donut ASCII rotatorio en el navegador, utilizando HTML, CSS y JavaScript.  
 
@@ -51,11 +52,6 @@ Un proyecto dinámico que genera un donut ASCII rotatorio en el navegador, utili
 - Control dinámico de velocidad de rotación con un slider.  
 - Cambio de tema (modo claro y oscuro) con un botón interactivo.  
 - Diseño responsivo y adaptable a diferentes pantallas.  
-
-**Archivos principales:**  
-- `SpinningDonut.html`: Estructura del proyecto.  
-- `styles.css`: Estilización del donut y la interfaz.  
-- `script.js`: Lógica para generar la animación y funciones interactivas.  
 
 ---
 
@@ -67,7 +63,8 @@ Un portafolio profesional que destaca mis habilidades y proyectos en desarrollo 
 ---
 
 ### **Aplicación POS - Gestión Integral para Negocios**  
-[**Repositorio en GitHub**](https://github.com/scriptvg/Discord-S0ftw)  
+[**Repositorio en GitHub**](https://github.com/scriptvg/Discord-S0ftw)
+[**Demo en vivo**](https://stunning-pika-kr0mmsoluti0n.netlify.app/)
 
 Un sistema de punto de venta para facilitar la gestión comercial en Costa Rica, con integración a facturación electrónica.  
 
