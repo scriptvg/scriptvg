@@ -4,8 +4,7 @@
 
 📍 **Esparza, San Juan, Barón**  
 ✉️ **velezalan34@gmail.com** | 📱 **8481-3021**  
-[**LinkedIn**](https://www.linkedin.com/in/allan-jos%C3%A9-v%C3%A9lez-gonz%C3%A1lez-2838981b8?trk=contact-info) | [**GitHub**](https://github.com/scriptvg) | [**Portafolio Web**](v0-portafolio-t2fwwhcnrut-531c6zk3x.vercel.app
-)  
+[**LinkedIn**](https://www.linkedin.com/in/allan-jos%C3%A9-v%C3%A9lez-gonz%C3%A1lez-2838981b8?trk=contact-info) | [**GitHub**](https://github.com/scriptvg) | [**Portafolio Web**](https://v0-portafolio-t2fwwhcnrut-531c6zk3x.vercel.app/)  
 
 ---
 
@@ -58,8 +57,7 @@ Un proyecto dinámico que genera un donut ASCII rotatorio en el navegador, utili
 ---
 
 ### **Portafolio Personal**  
-[**Demo en vivo**](v0-portafolio-t2fwwhcnrut-531c6zk3x.vercel.app
-)  
+[**Demo en vivo**](https://v0-portafolio-t2fwwhcnrut-531c6zk3x.vercel.app/)  
 
 Un portafolio profesional que destaca mis habilidades y proyectos en desarrollo front-end.  
 
