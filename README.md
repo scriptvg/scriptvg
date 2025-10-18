@@ -90,6 +90,12 @@ Un proyecto dinámico que genera un donut ASCII rotatorio en el navegador, utili
 Proyecto colaborativo enfocado en la conservación marina y educación ambiental.  
 **Tecnologías utilizadas:** React.js, Node.js, base de datos relacional
 
+### 🧾 **Template React + Vite + Tailwindcss + Shadcn**
+[🔗 Repositorio](https://github.com/scriptvg/vite-react-tailwindcss-shadcn-template) | [🌐 Demo en vivo](https://trvts.netlify.app/)
+
+Proyecto enfocado en facilitar el desarrollo agil de la configuracion correcta de las herramientas.
+**Tecnologias utilizadas:** React.js, Node.js, Shadcn UI, Tailwindcss v4.1
+
 ---
 
 ## 💼 **Experiencia Laboral**  
