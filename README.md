@@ -22,9 +22,6 @@
   <a href="https://www.hackerrank.com/velezalan34" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://v0-portafolio-t2fwwhcnrut.vercel.app/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Portfolio" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -32,7 +29,6 @@
 ## 🌟 **Sobre Mí**  
 Soy un desarrollador FullStack apasionado por la tecnología y el marketing, especializado en **React.js**, **Node.js** y **Tailwind CSS**. Combino mis habilidades técnicas con una sólida experiencia en comunicación y ventas, para diseñar soluciones creativas y efectivas. Me destaco por mi compromiso, capacidad de aprendizaje continuo y atención al detalle.
 
-- 🔭 Actualmente trabajando en: [Parque Marino Project](https://github.com/Fer-2202/Proyecto_Final.git)
 - 🌱 Aprendiendo continuamente nuevas tecnologías web
 - 💼 Experiencia combinando desarrollo web con estrategias de marketing
 - 🎯 Enfocado en crear experiencias de usuario excepcionales
@@ -97,22 +93,6 @@ Un proyecto dinámico que genera un donut ASCII rotatorio en el navegador, utili
 
 Proyecto colaborativo enfocado en la conservación marina y educación ambiental.  
 **Tecnologías utilizadas:** React.js, Node.js, base de datos relacional
-
-### 💼 **Portafolio Personal**  
-[🌐 Demo en vivo](https://v0-portafolio-t2fwwhcnrut.vercel.app/)  
-
-Portafolio profesional que destaca mis habilidades y proyectos en desarrollo front-end, diseñado con enfoque en UX/UI moderno.
-
-### 🏪 **Sistema POS - Gestión Integral**  
-[🔗 Repositorio](https://github.com/scriptvg/Discord-S0ftw) | [🌐 Demo en vivo](https://stunning-pika-kr0mmsoluti0n.netlify.app/)
-
-Sistema de punto de venta completo para la gestión comercial en Costa Rica.  
-**Características principales:**  
-- ✅ Facturación electrónica conforme a Hacienda
-- 📦 Gestión completa de inventarios y proveedores  
-- 👥 Sistema de usuarios con roles y permisos
-- 📊 Reportes y análisis de ventas
-- 💳 Integración con múltiples métodos de pago
 
 ---
 
