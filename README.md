@@ -1,5 +1,6 @@
 # 👨‍💻 Allan José Vélez González  
-<h3 align="center">FullStack Developer & Marketing Specialist</h3>
+
+### FullStack Developer & Marketing Specialist
 
 **📍 Esparza, San Juan, Barón, Costa Rica**  
 **✉️ velezalan34@gmail.com | 📱 8481-3021**
