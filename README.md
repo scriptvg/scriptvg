@@ -1,11 +1,6 @@
 # 👨‍💻 Allan José Vélez González  
 <h3 align="center">FullStack Developer & Marketing Specialist</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=scriptvg&label=Profile%20views&color=0e75b6&style=flat" alt="scriptvg" />
-  <img src="https://github-profile-trophy.vercel.app/?username=scriptvg" alt="scriptvg" />
-</div>
-
 **📍 Esparza, San Juan, Barón, Costa Rica**  
 **✉️ velezalan34@gmail.com | 📱 8481-3021**
 
