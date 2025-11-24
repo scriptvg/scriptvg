@@ -157,7 +157,7 @@ Proyecto enfocado en facilitar el desarrollo agil de la configuracion correcta d
 
 **📧 velezalan34@gmail.com**  
 **💼 [LinkedIn](https://linkedin.com/in/allan-josé-vélez-gonzález-2838981b8)**  
-**🌐 [Portafolio]([https://v0-portafolio-t2fwwhcnrut.vercel.app/](https://cv-kromm.netlify.app/))**
+**🌐 [Portafolio](https://cv-kromm.netlify.app/)**
 
 ---
 
